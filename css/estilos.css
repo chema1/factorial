@@ -1,0 +1,11 @@
+body{
+background:teal;
+color:white;
+}
+
+#respuesta{
+width:200px;
+height:100px;
+color:gray;
+background:white;
+}
